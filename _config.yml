@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: philosophy archive # blog_name will be displayed in your blog page
-blog_description: “Always go too far, because that's where you'll find the truth”
+blog_description: Always go too far, because that's where you'll find the truth
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
