@@ -2,24 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <span style="font-size: 1.1rem; color: #555; font-style: italic;">
+    “I usually solve problems by letting them devour me.” — Franz Kafka 
+  </span>
+
+
+
+
+
+
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Aditi and I enjoy developing software for good, for fun, and for security. I enjoy backend development and solving complex algorithmic problems in cross-disciplinary spaces.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm currently living in Pittsburgh, finishing up my master's degree in Electrical/Computer Engineering (ECE) at Carnegie Mellon. During my undergrad at CMU, I double-majored in ECE and Philosophy, with a concentration in ethics. Now, I enjoy writing [pragmatic theory](https://aditinnara.github.io/blog/category/pragmatism/), [social and political philosophy](https://aditinnara.github.io/blog/category/social-political-philosophy/), and [philosophy of science](https://aditinnara.github.io/blog/category/nature-of-scientific-revolution/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I created a tech ethics organization called the [HOPEful Engineering Collective](https://hopefulengineering.org/) with Dr. Michael Skirpan, and currently serve as the graduate lead. I also create and host [community engagement events](https://aditinnara.github.io/projects/#category-community-engagement) as the head of [TEDxCMU](https://www.tedxcmu.org/) Salon.
+
+In my spare time, I read scifi and watch horror movies, take photos of [beautiful things](https://www.instagram.com/adhyllic/) with my Nikon D60, and listen to old Tamil movie songs. 
+
