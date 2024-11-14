@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the usefulness of "purely mathematical" structures
+title: the usefulness of 'purely mathematical' structures
 date: 2023-09-17 16:40:16
 description: Should the creation of purely mathematical structures that don’t claim to be accurate models of the physical world (like Ptolemy’s model) but which nonetheless serve as effective calculating instruments for predicting future events be a goal of scientific inquiry?
 tags: philosophy, science, nature, kuhn, peirce, pragmatism

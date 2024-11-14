@@ -1,6 +1,6 @@
 ---
 layout: post
-title: physical phenomena as "law of nature"
+title: physical phenomena as 'law of nature'
 date: 2023-08-29 16:40:16
 description: If none of the physical phenomena that are claimed to “follow a law of nature” actually conform precisely to that law then what exactly are we referring to as a “law of nature”? Is it reasonable to consider laws that only approximately describe the behavior of the phenomena said to obey them to be important parts of scientific knowledge? 
 tags: philosophy, science, nature, kuhn

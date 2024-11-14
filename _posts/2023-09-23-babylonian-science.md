@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the non-primitive nature of "primitive" science
+title: the non-primitive nature of 'primitive' science
 date: 2023-09-23 16:40:16
 description: If one criterion for successful scientific inquiry used today is developing algorithms for predicting future events, then weren’t the Babylonians doing successful science by our own criteria?
 tags: philosophy, science, nature, kuhn, peirce
