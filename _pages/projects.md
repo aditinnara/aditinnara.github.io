@@ -72,6 +72,14 @@ horizontal: false
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   console.log('Page loaded');
+
+  // Auto-expand the first category if no hash is provided
+  const firstCategory = document.querySelector('.category-section');
+  if (firstCategory) {
+    const firstCategoryId = firstCategory.querySelector('.category-toggle-btn').id;
+    toggleCategory(firstCategoryId);
+  }
+
   const hash = window.location.hash.substring(1);
   console.log(hash);
   if (hash) {

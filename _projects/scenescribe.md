@@ -90,7 +90,7 @@ We computed a character error rate (CER) of 0% on 50 well-formatted lecture slid
 
 I had always been interested in wearable accessible technology, and I am highly passionate in lowering the information gap among historically underprivileged groups. This project is important to me, and I'm interested in exploring more avenues in accessible tech. 
 
-You can download our final report <a href="{{ '/assets/pdf/scenescribe.pdf' | relative_url }}" download>here</a>, or visit our <a href="http://course.ece.cmu.edu/~ece500/projects/f23-teamb3/">project website</a> for more info.
+You can download our final report <a href="{{'/assets/pdf/scenescribe.pdf'}}" download>here</a>, or visit our <a href="http://course.ece.cmu.edu/~ece500/projects/f23-teamb3/">project website</a> for more info.
 
 
 
