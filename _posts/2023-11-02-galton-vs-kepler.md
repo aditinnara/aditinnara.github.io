@@ -2,7 +2,7 @@
 layout: post
 title: galton's 'law' of variation vs. kepler's law of planetary motion
 date: 2023-08-26 16:40:16
-description: Is Galton's law of distribution of variations of traits in organisms a "law of nature"?
+description: Is Galton's law of distribution of variations of traits in organisms a 'law of nature'?
 tags: philosophy, science, nature, galton, kepler
 categories: nature-of-scientific-revolution
 ---

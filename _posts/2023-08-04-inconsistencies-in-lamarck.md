@@ -2,7 +2,7 @@
 layout: post
 title: inconsistencies in lamarckian transmutation theory
 date: 2023-08-04 16:40:16
-description: Do Lamarck's \“proofs of the truth\” of his theory of transmutation provide sufficient evidence for us to accept them as likely to be true?
+description: Do Lamarck's 'proofs of the truth' of his theory of transmutation provide sufficient evidence for us to accept them as likely to be true?
 tags: philosophy, science, nature, lamarck, darwin
 categories: nature-of-scientific-revolution
 ---
