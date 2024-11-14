@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [work, technical, tech ethics initiatives, community engagement]
+display_categories: [technical, community engagement]
 horizontal: false
 ---
 
