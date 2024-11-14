@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a defense of a 'non-punitive problem-posing' education model
+title: in defense of a 'non-punitive problem-posing' education model
 date: 2022-12-30 16:40:16
 description: Drawing on Paulo Freire, Geneva Gay, and bell hooks to imagine a culturally sensitive, horizontally-structured education system.
 tags: paulo-freire, bell-hooks, ethics, society, political-theory
