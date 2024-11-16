@@ -2,7 +2,7 @@
 layout: page
 title: poetica
 description: a personalized poetry experience
-img: assets/img/poetica/poetica_bg_pic.png
+img: assets/img/poetica/poetica.png
 importance: 1
 category: technical
 related_publications: false
