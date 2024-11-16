@@ -68,57 +68,54 @@ horizontal: false
 {% endif %}
 </div>
 
-<!-- JavaScript for toggling categories and scrolling to them -->
+
+
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-  console.log('Page loaded');
-
-  // Auto-expand the first category if no hash is provided
-  const firstCategory = document.querySelector('.category-section');
-  if (firstCategory) {
-    const firstCategoryId = firstCategory.querySelector('.category-toggle-btn').id;
-    toggleCategory(firstCategoryId);
-  }
-
+document.addEventListener("DOMContentLoaded", function () {
   const hash = window.location.hash.substring(1);
-  console.log(hash);
+
+  // Handle hash-specific category expansion
   if (hash) {
     const categoryContent = document.getElementById(hash);
-    console.log(categoryContent);
     if (categoryContent) {
-      // Expand the category content
-      
-      categoryContent.style.maxHeight = categoryContent.scrollHeight + "px";
-      categoryContent.style.opacity = "1";
-      console.log(categoryContent)
-
+      categoryContent.style.maxHeight = categoryContent.scrollHeight + "px"; // Expand
+      categoryContent.style.opacity = "1"; // Show
       setTimeout(() => {
         categoryContent.scrollIntoView({
-          behavior: 'smooth',
-          block: 'start'
+          behavior: "smooth",
+          block: "start",
         });
       }, 100);
+      return; // Stop further execution as specific category is handled
     }
   }
-});
+  else{
+    // Default behavior: Expand all categories
+    const categorySections = document.querySelectorAll(".category-content");
+    categorySections.forEach((section) => {
+      section.style.maxHeight = section.scrollHeight + "px"; // Expand
+      section.style.opacity = "1"; // Show
+    });
+  }
 
+  
+});
 
 // Function to toggle category visibility when clicked
 function toggleCategory(categoryId) {
-  console.log('toggling');
-  const content = document.getElementById('category-' + categoryId);
+  const content = document.getElementById("category-" + categoryId);
   const isCollapsed = content.style.maxHeight === "0px" || content.style.maxHeight === "";
-  
   if (isCollapsed) {
-    content.style.maxHeight = content.scrollHeight + "px"; // Expand category
-    content.style.opacity = "1"; // Make category visible
+    content.style.maxHeight = content.scrollHeight + "px"; // Expand
+    content.style.opacity = "1"; // Show
   } else {
-    content.style.maxHeight = "0px"; // Collapse category
-    content.style.opacity = "0"; // Hide category
+    content.style.maxHeight = "0px"; // Collapse
+    content.style.opacity = "0"; // Hide
   }
 }
-
 </script>
+
+
 
 <!-- CSS for styling the collapsible categories with enhanced animation -->
 <style>
