@@ -2,7 +2,7 @@
 layout: page
 title: iTop CVE Investigation
 description: replicating, extending, and combining CVEs found on an IT portal
-img: assets/img/scenescribe/cad_diag.png
+img: assets/img/cve/itop.png
 importance: 1
 category: technical
 related_publications: false
