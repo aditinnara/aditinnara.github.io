@@ -5,7 +5,7 @@ description: a fault-tolerant distributed system configured to handle active and
 img: assets/img/dist-sys/console_output.png
 importance: 1
 category: technical
-related_publications: false
+related_publications: false  
 ---
 
 One of my favorite courses I took at CMU was called 18-749: Building Reliable Distributed Systems. Our final project for the course was to create a fully functional, fault-tolerant distributed system with automatic recovery of replicas and passive/active configurations.
