@@ -22,7 +22,7 @@ env:
 jobs:
   check:
     # available images: https://github.com/actions/runner-images#available-images
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
@@ -41,10 +41,11 @@ jobs:
               "giscus.repo": "${{ github.repository }}",
               "baseurl": ""
             }
-      - name: Install imagemagick (convert)
+      - name: Install ImageMagick
         run: |
           sudo apt-get update
           sudo apt-get install -y imagemagick
+          magick --version  # Verify installation
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
