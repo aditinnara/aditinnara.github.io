@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Food for Thought
-description: a TEDxCMU restaurant event-series highlighting underrepresented communities in Pittsburgh
+description: a TEDxCMU restaurant event series highlighting underrepresented communities in Pittsburgh
 img: assets/img/foodforthought/foodforthought.png
 importance: 1
 category: community engagement
