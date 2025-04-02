@@ -9,7 +9,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic1.jpg
+  image: assets/img/prof_pic1.png
   image_circular: false # crops the image to make it circular
   more_info:
 
