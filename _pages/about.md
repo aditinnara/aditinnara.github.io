@@ -7,12 +7,6 @@ subtitle: >
     “I usually solve problems by letting them devour me.” — Franz Kafka 
   </span>
 
-
-
-
-
-
-
 profile:
   align: right
   image: prof_pic1.jpg
@@ -30,5 +24,4 @@ I'm currently living in Pittsburgh, finishing up my master's degree in Electrica
 
 I created a tech ethics organization called the [HOPEful Engineering Collective](https://hopefulengineering.org/) with Dr. Michael Skirpan, and currently serve as the graduate lead. I also create and host [community engagement events](https://aditinnara.github.io/projects/#category-community-engagement) as the head of [TEDxCMU](https://www.tedxcmu.org/) Salon.
 
-In my spare time, I read scifi and watch horror movies, take photos of [beautiful things](https://www.instagram.com/adhyllic/) with my Nikon D60, and listen to old Tamil movie songs. 
-
+In my spare time, I read scifi and watch horror movies, take photos of [beautiful things](https://www.instagram.com/adhyllic/) with my Nikon D60, and listen to old Tamil movie songs.

@@ -8,7 +8,7 @@ category: community engagement
 related_publications: false
 ---
 
-TEDxCMU Salon is a branch of TEDx which aims to create spaces for underrepresented communities at CMU. We create these spaces through small, intimate events aimed at community building. As the head of Salon, I had the privilege putting together a comedy night celebrating **BIPOC Joy** with my team. 
+TEDxCMU Salon is a branch of TEDx which aims to create spaces for underrepresented communities at CMU. We create these spaces through small, intimate events aimed at community building. As the head of Salon, I had the privilege putting together a comedy night celebrating **BIPOC Joy** with my team.
 
 <div class="row justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0 text-center">
@@ -21,9 +21,9 @@ TEDxCMU Salon is a branch of TEDx which aims to create spaces for underrepresent
     </div>
 </div>
 
-
 We scouted out and invited local BIPOC comedians who made a home for themselves in Pittsburgh to perform a set to an intimate group of CMU students. For a lot of them, stand-up isn't their full-time job. However, they aimed to show our CMU attendees that comedy can be a source of community, especially in difficult times. We invited the following speakers:
-- [Jesse Feng](https://www.instagram.com/jessefengcomedy/), a member of the [Steel City Arts Foundation](https://www.steelcityaf.com/), who performs regularly at the [Arcade Comedy Theater](https://www.arcadecomedytheater.com/) in Pittsburgh. 
+
+- [Jesse Feng](https://www.instagram.com/jessefengcomedy/), a member of the [Steel City Arts Foundation](https://www.steelcityaf.com/), who performs regularly at the [Arcade Comedy Theater](https://www.arcadecomedytheater.com/) in Pittsburgh.
 - [Tyler Ray Kendrick](https://www.instagram.com/tylerraykendrick/), who was voted Best Comedian in 2022 and 2023 in Pittsburgh Magazine's Best of the Burgh
 - [Brittany Alexis](https://www.instagram.com/bfeldz/), who has performed in stages across Pittsburgh, including the Byham Theater.
 - [Amir Abdallah](https://www.instagram.com/theamirabdallah/), a playful, witty, and honest comic, who is the host of Pittsburgh's [Gaslight Comedy](https://www.instagram.com/gaslightcomedypgh)
@@ -52,7 +52,6 @@ We scouted out and invited local BIPOC comedians who made a home for themselves 
     </div>
 </div>
 
-
 We laughed, we cried, we screamed together. A warm thank you to Salon and TEDx - we put together another beautiful event. A special thank you to our Design team who created our wonderful graphics.
 
 <div class="row justify-content-center">
@@ -65,4 +64,3 @@ We laughed, we cried, we screamed together. A warm thank you to Salon and TEDx -
         </div>
     </div>
 </div>
-

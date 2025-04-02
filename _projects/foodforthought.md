@@ -10,7 +10,8 @@ related_publications: false
 
 TEDxCMU Salon is a branch of TEDx which aims to create spaces for underrepresented communities at CMU. We create these spaces through small, intimate events aimed at community building. As the head of Salon, I had the privilege of hosting and putting together an event called **Food for Thought** with my team. Our plan was to invite local restauranteurs to speak and cater a joint tasting menu for CMU students and faculty. Our guests would enjoy a completely free full-service candlelit dinner while they listened to the speakers.
 
-We wanted to specifically highlight cultures that were underrepresented at Carnegie Mellon, so I cold-called restaurants and food trucks that I thought would be a good fit for weeks leading up to the event. Finally, a week before the event, we finalized our speakers:  
+We wanted to specifically highlight cultures that were underrepresented at Carnegie Mellon, so I cold-called restaurants and food trucks that I thought would be a good fit for weeks leading up to the event. Finally, a week before the event, we finalized our speakers:
+
 - Chris Edmonds, a former NFL player who runs a Black-owned food truck centered around healthy food called [ATU](https://www.facebook.com/@atufoodtruck/). Chris brought us a taco salad for our tasting menu.
 - Dalel Khalil, who co-owns a Syrian restaurant called [Khalil's](http://khalilsrestaurant.com/) with [rich history](https://nextpittsburgh.com/eatdrink/khalils-marks-51-years-with-a-party-and-a-look-toward-next-phase/) in Pittsburgh. Dalel brought us traditional dolmas and Khalil's signature salad (with the best dressing I've ever had).
 - Foy, a CMU student who runs a pop-up kitchen called [Honeypoi](https://www.instagram.com/honeypoii/). Foy brought us traditional Mexican horchata and a fusion pastel de nata.

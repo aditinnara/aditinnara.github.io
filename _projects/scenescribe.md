@@ -40,7 +40,6 @@ We developed an iOS app that will store a list of classes that the user is takin
     </div>
 </div>
 
-
 After this selection, the most recent lecture PDF from the corresponding course will be scraped and uploaded to our server. Although this is a minor inconvenience for the user, we decided to prioritize accuracy by reading directly from the slides rather than a lower quality image.
 
 The server will be hosted on a Jetson, which will be on campus at a central location (such as the disability resources office), and our app will communicate with it wirelessly.
@@ -60,7 +59,7 @@ Then, each slide of the PDF will be analyzed for the existence of text and graph
 
 During the lecture, when the user wants to hear a slide description during lecture, the user will press the start button on the side of the glasses attachment, which will indicate to the Raspberry Pi that it should capture an image. The image will then be wirelessly sent over WiFi to a server hosted on the Jetson.
 
-Once received, the slide number (contained in a red box in the bottom right corner of the image) will be detected, cropped, and preprocessed before being passed to the classification algorithm, which detects image contours. Then, we run a digit-classification model (a standard CNN) to classify the digit. Finally, these digits are then strung together to get the final slide number. 
+Once received, the slide number (contained in a red box in the bottom right corner of the image) will be detected, cropped, and preprocessed before being passed to the classification algorithm, which detects image contours. Then, we run a digit-classification model (a standard CNN) to classify the digit. Finally, these digits are then strung together to get the final slide number.
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
@@ -75,7 +74,7 @@ Once received, the slide number (contained in a red box in the bottom right corn
 
 Once the slide number is identified, we can fetch the stored text and graph description for that slide (which was already extracted and stored in a JSON) and send it to our iOS app, where it is read aloud to the user using text-to-speech. While this text description is being played, the user can press the stop button at any time when they don’t want to hear the audio anymore.
 
-We computed a character error rate (CER) of 0% on 50 well-formatted lecture slides, a 98.2% accuracy on slide number extraction with similarly-formatted slides, and a 95% accuracy on graph detection using Intersection over Union (IoU). We performed user testing with visually-impaired and sighted students and received average scores of 4.9 for text accuracy, 3.9 for graph description accuracy, and 4.0 for ease of use on a scale of 0 to 5. 
+We computed a character error rate (CER) of 0% on 50 well-formatted lecture slides, a 98.2% accuracy on slide number extraction with similarly-formatted slides, and a 95% accuracy on graph detection using Intersection over Union (IoU). We performed user testing with visually-impaired and sighted students and received average scores of 4.9 for text accuracy, 3.9 for graph description accuracy, and 4.0 for ease of use on a scale of 0 to 5.
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
@@ -88,10 +87,6 @@ We computed a character error rate (CER) of 0% on 50 well-formatted lecture slid
     </div>
 </div>
 
-I had always been interested in wearable accessible technology, and I am highly passionate in lowering the information gap among historically underprivileged groups. This project is important to me, and I'm interested in exploring more avenues in accessible tech. 
+I had always been interested in wearable accessible technology, and I am highly passionate in lowering the information gap among historically underprivileged groups. This project is important to me, and I'm interested in exploring more avenues in accessible tech.
 
 You can download our final report [here](https://drive.google.com/file/d/1kipu5k4wk-9ibMJPXmkZDjckchq28zz0/view?usp=sharing), or visit our <a href="http://course.ece.cmu.edu/~ece500/projects/f23-teamb3/">project website</a> for more info.
-
-
-
-

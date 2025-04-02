@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 
+description:
 nav: true
 nav_order: 3
 display_categories: [technical, community engagement]
@@ -42,15 +42,19 @@ horizontal: false
       </div>
       {% endif %}
     </div>
+
   </div>
   {% endfor %}
 {% else %}
 
 <!-- Display projects without categories -->
+
 {% assign sorted_projects = site.projects | sort: "importance" %}
 
   <!-- Generate cards for each project -->
-  {% if page.horizontal %}
+
+{% if page.horizontal %}
+
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
       {% for project in sorted_projects %}
@@ -67,8 +71,6 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
-
-
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -114,8 +116,6 @@ function toggleCategory(categoryId) {
   }
 }
 </script>
-
-
 
 <!-- CSS for styling the collapsible categories with enhanced animation -->
 <style>

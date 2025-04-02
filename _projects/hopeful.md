@@ -12,7 +12,7 @@ In the fall of 2023, I was introduced to Dr. Michael Skirpan, who had the idea t
 
 **Fall 2024 Social**
 
-For the Fall 2024 social event, I made conversation cards themed around central ideas of HOPEful. Guests sat at tables with people they hadn't met and had conversations with the cards as a guide. Then, they distilled their conversations into post-it notes, which they stuck up on a posterboard before moving to the next table. 
+For the Fall 2024 social event, I made conversation cards themed around central ideas of HOPEful. Guests sat at tables with people they hadn't met and had conversations with the cards as a guide. Then, they distilled their conversations into post-it notes, which they stuck up on a posterboard before moving to the next table.
 
 <div class="row">
     <div class="col-sm-4 mt-3">
@@ -67,10 +67,9 @@ Our first Consequential Coffee was with Arthi Krishnaswami, who presented the to
     </div>
 </div>
 
-
 **Tactics for Ethical Tech**
 
-Our next event was a panel event we called Tactics for Ethical Technology. 
+Our next event was a panel event we called Tactics for Ethical Technology.
 
 <div class="row justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0 text-center">
@@ -106,10 +105,8 @@ We brought in four speakers, each of whom brought in a topic. The topics we disc
     </div>
 </div>
 
-
 Students came in to speak to the panelists they were interested in, but most ended up staying for the whole event. Towards the end, everyone got in a roundtable-style discussion, where we talked about the state of standards organizations in technology, teaching AI literacy, how AI should be used responsibly, and general fears and feelings about the tech industry.
 
 **Research**
 
 In parallel to the events I create for HOPEful, I also work with Dr. Skirpan to research the efficacy of tech ethics interventions at other universities. We aim to learn what kinds of interventions (classroom, university, student groups, etc.) arm students to enact change once they graduate and enter the workforce. Please email me at [aditin@andrew.cmu.edu](aditin@andrew.cmu.edu) if you want to chat about our research or have any ideas about HOPEful.
-
