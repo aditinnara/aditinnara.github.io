@@ -41,11 +41,7 @@ jobs:
               "giscus.repo": "${{ github.repository }}",
               "baseurl": ""
             }
-      - name: Install ImageMagick
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y imagemagick
-          magick --version  # Verify installation
+      
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
