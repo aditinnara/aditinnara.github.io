@@ -18,9 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Aditi and I enjoy developing software for good, for fun, and for security. I enjoy backend development and solving complex algorithmic problems in cross-disciplinary spaces.
+I'm Aditi and I'm looking for a full-time position in the Software Engineering and AI Governance space. I enjoy developing software for good, for fun, and for security. I specialize in backend development in cross-disciplinary spaces.
 
-I'm currently living in Pittsburgh, finishing up my master's degree in Electrical/Computer Engineering (ECE) at Carnegie Mellon. During my undergrad at CMU, I double-majored in ECE and Philosophy, with a concentration in ethics. Now, I write [pragmatic theory](https://aditinnara.github.io/blog/category/pragmatism/), [social and political philosophy](https://aditinnara.github.io/blog/category/social-political-philosophy/), and [philosophy of science](https://aditinnara.github.io/blog/category/nature-of-scientific-revolution/).
+I'm currently living in Pittsburgh, finishing up my M.S. in Electrical/Computer Engineering (ECE) at Carnegie Mellon. During my undergrad at CMU, I double-majored in ECE and Philosophy, with a concentration in applied ethics. Now, I write [pragmatic theory](https://aditinnara.github.io/blog/category/pragmatism/), [social and political philosophy](https://aditinnara.github.io/blog/category/social-political-philosophy/), and [philosophy of science](https://aditinnara.github.io/blog/category/nature-of-scientific-revolution/).
 
 I created a tech ethics organization called the [HOPEful Engineering Collective](https://hopefulengineering.org/) with Dr. Michael Skirpan, and currently serve as the graduate lead. I also create and host [community engagement events](https://aditinnara.github.io/projects/#category-community-engagement) as the head of [TEDxCMU](https://www.tedxcmu.org/) Salon.
 
